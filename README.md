@@ -18,16 +18,17 @@ Automated GitHub developer journal and activity dashboard.
 
 | Repository | Language | Last Updated |
 |---|---|---|
-| developer_daily_log | JavaScript | 30 August 2026 |
 | DanarArrsyd | - | 30 August 2026 |
 | nihongo_personal | JavaScript | 28 August 2026 |
 | birthday_tmp1 | JavaScript | 18 August 2026 |
 | asset_kmi | PHP | 13 August 2026 |
+| lilhoopsters | Blade | 7 August 2026 |
 
 ## Development Languages
 
 - JavaScript
 - PHP
+- Blade
 <!-- DASHBOARD:END -->
 
 ## About This Repository
