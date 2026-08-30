@@ -87,7 +87,7 @@ function buildStats(username, user, repos) {
 
   const recentRepos = nonForkRepos
     .filter((r) => !r.archived)
-    .filter((r) => r.name !== "developer-daily-log")
+    .filter((r) => r.name !== "developer_daily_log")
     .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at))
     .slice(0, 5)
     .map((r) => ({
