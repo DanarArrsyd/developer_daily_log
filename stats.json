@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-08-30T21:20:08+07:00",
+  "last_updated": "2026-08-31T12:35:47+07:00",
   "public_repositories": 10,
   "non_fork_repositories": 9,
   "followers": 1,
@@ -9,10 +9,14 @@
   "total_forks": 0,
   "languages": [
     "JavaScript",
-    "PHP",
-    "Blade"
+    "PHP"
   ],
   "recent_repositories": [
+    {
+      "name": "portofolio_danar",
+      "language": "JavaScript",
+      "updated_at": "2026-08-31T00:55:18Z"
+    },
     {
       "name": "DanarArrsyd",
       "language": null,
@@ -32,11 +36,6 @@
       "name": "asset_kmi",
       "language": "PHP",
       "updated_at": "2026-08-13T16:05:20Z"
-    },
-    {
-      "name": "lilhoopsters",
-      "language": "Blade",
-      "updated_at": "2026-08-07T03:44:52Z"
     }
   ]
 }
