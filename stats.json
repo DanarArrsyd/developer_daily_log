@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-08-31T12:35:47+07:00",
+  "last_updated": "2026-09-01T12:08:49+07:00",
   "public_repositories": 10,
   "non_fork_repositories": 9,
   "followers": 1,
@@ -13,14 +13,14 @@
   ],
   "recent_repositories": [
     {
+      "name": "DanarArrsyd",
+      "language": null,
+      "updated_at": "2026-08-31T09:36:34Z"
+    },
+    {
       "name": "portofolio_danar",
       "language": "JavaScript",
       "updated_at": "2026-08-31T00:55:18Z"
-    },
-    {
-      "name": "DanarArrsyd",
-      "language": null,
-      "updated_at": "2026-08-30T09:04:46Z"
     },
     {
       "name": "nihongo_personal",
