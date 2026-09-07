@@ -7,27 +7,26 @@ Automated GitHub developer journal and activity dashboard.
 
 | Metric | Value |
 |---|---:|
-| Public Repositories | 10 |
-| Non-Fork Repositories | 9 |
+| Public Repositories | 11 |
+| Non-Fork Repositories | 10 |
 | Followers | 1 |
 | Repository Stars | 0 |
-| Daily Snapshots | 8 |
-| Last Updated | 6 September 2026 |
+| Daily Snapshots | 9 |
+| Last Updated | 7 September 2026 |
 
 ## Recent Projects
 
 | Repository | Language | Last Updated |
 |---|---|---|
-| DanarArrsyd | - | 5 September 2026 |
+| kmiprofilecareers | - | 6 September 2026 |
+| DanarArrsyd | - | 6 September 2026 |
 | portofolio_danar | JavaScript | 2 September 2026 |
 | nihongo_personal | JavaScript | 28 August 2026 |
 | birthday_tmp1 | JavaScript | 18 August 2026 |
-| asset_kmi | PHP | 13 August 2026 |
 
 ## Development Languages
 
 - JavaScript
-- PHP
 <!-- DASHBOARD:END -->
 
 ## About This Repository
