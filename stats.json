@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-09-09T11:42:50+07:00",
+  "last_updated": "2026-09-10T11:43:13+07:00",
   "public_repositories": 11,
   "non_fork_repositories": 10,
   "followers": 1,
@@ -8,13 +8,19 @@
   "total_stars": 0,
   "total_forks": 0,
   "languages": [
+    "Blade",
     "JavaScript"
   ],
   "recent_repositories": [
     {
+      "name": "lilhoopsters",
+      "language": "Blade",
+      "updated_at": "2026-09-10T03:56:25Z"
+    },
+    {
       "name": "DanarArrsyd",
       "language": null,
-      "updated_at": "2026-09-08T07:56:54Z"
+      "updated_at": "2026-09-09T08:00:44Z"
     },
     {
       "name": "kmiprofilecareers",
@@ -30,11 +36,6 @@
       "name": "nihongo_personal",
       "language": "JavaScript",
       "updated_at": "2026-08-28T15:09:47Z"
-    },
-    {
-      "name": "birthday_tmp1",
-      "language": "JavaScript",
-      "updated_at": "2026-08-18T08:52:02Z"
     }
   ]
 }
