@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-09-12T11:34:45+07:00",
+  "last_updated": "2026-09-13T11:48:35+07:00",
   "public_repositories": 12,
   "non_fork_repositories": 11,
   "followers": 1,
@@ -8,19 +8,19 @@
   "total_stars": 0,
   "total_forks": 0,
   "languages": [
-    "Blade",
-    "JavaScript"
+    "JavaScript",
+    "Blade"
   ],
   "recent_repositories": [
     {
       "name": "pilkades_livecount",
-      "language": null,
-      "updated_at": "2026-09-12T04:30:19Z"
+      "language": "JavaScript",
+      "updated_at": "2026-09-12T17:05:38Z"
     },
     {
       "name": "DanarArrsyd",
       "language": null,
-      "updated_at": "2026-09-11T07:55:23Z"
+      "updated_at": "2026-09-12T07:48:03Z"
     },
     {
       "name": "lilhoopsters",
