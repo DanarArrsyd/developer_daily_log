@@ -1,41 +1,42 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-09-13T11:48:35+07:00",
-  "public_repositories": 12,
-  "non_fork_repositories": 11,
+  "last_updated": "2026-09-14T11:57:24+07:00",
+  "public_repositories": 14,
+  "non_fork_repositories": 13,
   "followers": 1,
   "following": 5,
   "total_stars": 0,
   "total_forks": 0,
   "languages": [
-    "JavaScript",
-    "Blade"
+    "TypeScript",
+    "PHP",
+    "JavaScript"
   ],
   "recent_repositories": [
     {
-      "name": "pilkades_livecount",
+      "name": "invitation_digital",
+      "language": "TypeScript",
+      "updated_at": "2026-09-14T04:36:22Z"
+    },
+    {
+      "name": "companyprofilekenco",
+      "language": "PHP",
+      "updated_at": "2026-09-14T01:30:49Z"
+    },
+    {
+      "name": "nihongo_personal",
       "language": "JavaScript",
-      "updated_at": "2026-09-12T17:05:38Z"
+      "updated_at": "2026-09-13T12:00:12Z"
     },
     {
       "name": "DanarArrsyd",
       "language": null,
-      "updated_at": "2026-09-12T07:48:03Z"
+      "updated_at": "2026-09-13T08:09:09Z"
     },
     {
-      "name": "lilhoopsters",
-      "language": "Blade",
-      "updated_at": "2026-09-10T03:56:25Z"
-    },
-    {
-      "name": "kmiprofilecareers",
-      "language": null,
-      "updated_at": "2026-09-06T16:00:48Z"
-    },
-    {
-      "name": "portofolio_danar",
+      "name": "pilkades_livecount",
       "language": "JavaScript",
-      "updated_at": "2026-09-02T15:42:58Z"
+      "updated_at": "2026-09-12T17:05:38Z"
     }
   ]
 }
