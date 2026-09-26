@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-09-25T11:58:11+07:00",
+  "last_updated": "2026-09-26T11:58:44+07:00",
   "public_repositories": 14,
   "non_fork_repositories": 13,
   "followers": 1,
@@ -8,19 +8,20 @@
   "total_stars": 0,
   "total_forks": 0,
   "languages": [
+    "PHP",
     "TypeScript",
     "JavaScript"
   ],
   "recent_repositories": [
     {
       "name": "companyprofilekenco",
-      "language": "TypeScript",
-      "updated_at": "2026-09-25T03:22:18Z"
+      "language": "PHP",
+      "updated_at": "2026-09-26T03:31:11Z"
     },
     {
       "name": "DanarArrsyd",
       "language": null,
-      "updated_at": "2026-09-24T08:17:46Z"
+      "updated_at": "2026-09-25T08:40:19Z"
     },
     {
       "name": "invitation_digital",
