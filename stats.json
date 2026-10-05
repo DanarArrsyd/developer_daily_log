@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-10-04T12:53:31+07:00",
+  "last_updated": "2026-10-05T12:40:56+07:00",
   "public_repositories": 15,
   "non_fork_repositories": 14,
   "followers": 1,
@@ -13,29 +13,29 @@
   ],
   "recent_repositories": [
     {
-      "name": "DanarArrsyd",
-      "language": null,
-      "updated_at": "2026-10-03T09:00:04Z"
-    },
-    {
       "name": "invitation_digital",
       "language": "TypeScript",
-      "updated_at": "2026-10-03T03:29:56Z"
+      "updated_at": "2026-10-05T05:37:44Z"
+    },
+    {
+      "name": "nihongo_personal",
+      "language": "JavaScript",
+      "updated_at": "2026-10-04T15:45:52Z"
     },
     {
       "name": "companyprofilekenco",
       "language": "TypeScript",
-      "updated_at": "2026-09-30T14:57:14Z"
+      "updated_at": "2026-10-04T14:55:59Z"
+    },
+    {
+      "name": "DanarArrsyd",
+      "language": null,
+      "updated_at": "2026-10-04T09:31:24Z"
     },
     {
       "name": "rack_tracking",
       "language": null,
       "updated_at": "2026-09-27T15:03:23Z"
-    },
-    {
-      "name": "pilkades_livecount",
-      "language": "JavaScript",
-      "updated_at": "2026-09-20T05:38:02Z"
     }
   ]
 }
