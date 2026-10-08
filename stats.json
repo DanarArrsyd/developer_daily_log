@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-10-07T13:00:11+07:00",
+  "last_updated": "2026-10-08T13:04:41+07:00",
   "public_repositories": 15,
   "non_fork_repositories": 14,
   "followers": 1,
@@ -13,14 +13,14 @@
   ],
   "recent_repositories": [
     {
-      "name": "nihongo_personal",
-      "language": "JavaScript",
-      "updated_at": "2026-10-07T04:35:34Z"
-    },
-    {
       "name": "DanarArrsyd",
       "language": null,
-      "updated_at": "2026-10-06T09:57:37Z"
+      "updated_at": "2026-10-07T10:02:43Z"
+    },
+    {
+      "name": "nihongo_personal",
+      "language": "JavaScript",
+      "updated_at": "2026-10-07T09:37:24Z"
     },
     {
       "name": "invitation_digital",
