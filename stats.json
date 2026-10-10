@@ -1,36 +1,36 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-10-09T13:09:15+07:00",
+  "last_updated": "2026-10-10T12:53:04+07:00",
   "public_repositories": 15,
   "non_fork_repositories": 14,
-  "followers": 1,
-  "following": 5,
+  "followers": 2,
+  "following": 6,
   "total_stars": 0,
   "total_forks": 0,
   "languages": [
-    "JavaScript",
-    "TypeScript"
+    "TypeScript",
+    "JavaScript"
   ],
   "recent_repositories": [
+    {
+      "name": "companyprofilekenco",
+      "language": "TypeScript",
+      "updated_at": "2026-10-10T05:44:22Z"
+    },
+    {
+      "name": "DanarArrsyd",
+      "language": null,
+      "updated_at": "2026-10-09T10:17:01Z"
+    },
     {
       "name": "nihongo_personal",
       "language": "JavaScript",
       "updated_at": "2026-10-08T17:49:36Z"
     },
     {
-      "name": "DanarArrsyd",
-      "language": null,
-      "updated_at": "2026-10-08T10:15:57Z"
-    },
-    {
       "name": "invitation_digital",
       "language": "TypeScript",
       "updated_at": "2026-10-05T12:35:55Z"
-    },
-    {
-      "name": "companyprofilekenco",
-      "language": "TypeScript",
-      "updated_at": "2026-10-04T14:55:59Z"
     },
     {
       "name": "rack_tracking",
