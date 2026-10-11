@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-10-10T12:53:04+07:00",
+  "last_updated": "2026-10-11T12:47:06+07:00",
   "public_repositories": 15,
   "non_fork_repositories": 14,
   "followers": 2,
@@ -13,14 +13,14 @@
   ],
   "recent_repositories": [
     {
-      "name": "companyprofilekenco",
-      "language": "TypeScript",
-      "updated_at": "2026-10-10T05:44:22Z"
-    },
-    {
       "name": "DanarArrsyd",
       "language": null,
-      "updated_at": "2026-10-09T10:17:01Z"
+      "updated_at": "2026-10-10T09:37:17Z"
+    },
+    {
+      "name": "companyprofilekenco",
+      "language": "TypeScript",
+      "updated_at": "2026-10-10T06:46:16Z"
     },
     {
       "name": "nihongo_personal",
