@@ -1,21 +1,31 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-10-18T11:34:24+07:00",
-  "public_repositories": 15,
-  "non_fork_repositories": 14,
+  "last_updated": "2026-10-19T11:41:09+07:00",
+  "public_repositories": 17,
+  "non_fork_repositories": 16,
   "followers": 2,
   "following": 6,
   "total_stars": 0,
   "total_forks": 0,
   "languages": [
-    "TypeScript",
-    "JavaScript"
+    "PHP",
+    "TypeScript"
   ],
   "recent_repositories": [
     {
+      "name": "eora_suite",
+      "language": "PHP",
+      "updated_at": "2026-10-19T03:05:40Z"
+    },
+    {
+      "name": "optima_kmi",
+      "language": "PHP",
+      "updated_at": "2026-10-18T18:10:56Z"
+    },
+    {
       "name": "DanarArrsyd",
       "language": null,
-      "updated_at": "2026-10-17T07:38:29Z"
+      "updated_at": "2026-10-18T07:54:00Z"
     },
     {
       "name": "invitation_digital",
@@ -26,16 +36,6 @@
       "name": "companyprofilekenco",
       "language": "TypeScript",
       "updated_at": "2026-10-13T03:15:16Z"
-    },
-    {
-      "name": "nihongo_personal",
-      "language": "JavaScript",
-      "updated_at": "2026-10-08T17:49:36Z"
-    },
-    {
-      "name": "rack_tracking",
-      "language": null,
-      "updated_at": "2026-09-27T15:03:23Z"
     }
   ]
 }
