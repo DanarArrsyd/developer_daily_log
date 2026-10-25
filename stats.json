@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-10-24T11:37:09+07:00",
+  "last_updated": "2026-10-25T11:41:40+07:00",
   "public_repositories": 17,
   "non_fork_repositories": 16,
   "followers": 2,
@@ -8,24 +8,24 @@
   "total_stars": 0,
   "total_forks": 0,
   "languages": [
-    "TypeScript",
-    "PHP"
+    "PHP",
+    "TypeScript"
   ],
   "recent_repositories": [
     {
-      "name": "companyprofilekenco",
-      "language": "TypeScript",
-      "updated_at": "2026-10-23T17:06:56Z"
+      "name": "eora_suite",
+      "language": "PHP",
+      "updated_at": "2026-10-24T16:19:42Z"
     },
     {
       "name": "DanarArrsyd",
       "language": null,
-      "updated_at": "2026-10-23T08:23:19Z"
+      "updated_at": "2026-10-24T07:59:03Z"
     },
     {
-      "name": "eora_suite",
-      "language": "PHP",
-      "updated_at": "2026-10-23T05:43:37Z"
+      "name": "companyprofilekenco",
+      "language": "TypeScript",
+      "updated_at": "2026-10-23T17:06:56Z"
     },
     {
       "name": "invitation_digital",
