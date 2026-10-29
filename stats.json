@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-10-28T12:42:49+07:00",
+  "last_updated": "2026-10-29T12:48:30+07:00",
   "public_repositories": 17,
   "non_fork_repositories": 16,
   "followers": 2,
@@ -13,14 +13,14 @@
   ],
   "recent_repositories": [
     {
-      "name": "DanarArrsyd",
-      "language": null,
-      "updated_at": "2026-10-27T08:48:11Z"
-    },
-    {
       "name": "eora_suite",
       "language": "PHP",
-      "updated_at": "2026-10-27T08:12:03Z"
+      "updated_at": "2026-10-29T05:04:07Z"
+    },
+    {
+      "name": "DanarArrsyd",
+      "language": null,
+      "updated_at": "2026-10-28T09:28:18Z"
     },
     {
       "name": "companyprofilekenco",
