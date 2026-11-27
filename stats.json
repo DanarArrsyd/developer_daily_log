@@ -1,6 +1,6 @@
 {
   "username": "DanarArrsyd",
-  "last_updated": "2026-11-26T15:18:00+07:00",
+  "last_updated": "2026-11-27T15:33:59+07:00",
   "public_repositories": 18,
   "non_fork_repositories": 17,
   "followers": 2,
@@ -14,8 +14,8 @@
   "recent_repositories": [
     {
       "name": "si-lembur",
-      "language": null,
-      "updated_at": "2026-11-20T11:15:48Z"
+      "language": "PHP",
+      "updated_at": "2026-11-26T15:48:10Z"
     },
     {
       "name": "eora_suite",
